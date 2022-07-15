@@ -11,6 +11,13 @@ Sun Dec 26 1969 00:00:00 GMT-0600 (Central Standard Time)
 
 
 An application example is provided as a png file in the repo.
+
+
+DO NOT:
+1. Talk
+2. Ask questions (except Gil)
+3. Look up anything anywere (google etc.)
+4. Cheat / Coluding
 */
 
 /**
