@@ -18,6 +18,7 @@ DO NOT:
 2. Ask questions (except Gil)
 3. Look up anything anywere (google etc.)
 4. Cheat / Coluding
+5. Look up any previous code you have written
 */
 
 /**
