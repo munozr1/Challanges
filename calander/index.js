@@ -21,11 +21,13 @@ exports.getDaysInMonth = void 0;
  * @return {Date[]} List with date objects for each day of the month
  */
 function getDaysInMonth(month, year) {
+    console.log("Running 🔄");
     //TODO write code here
+    console.log("Finished ✅");
     return [];
 }
 exports.getDaysInMonth = getDaysInMonth;
-getDaysInMonth(0, 1969);
+console.log("🗓  Calendar: ", getDaysInMonth(0, 1969));
 // To test your function, run:
 // tsc index.ts
 // node index.js

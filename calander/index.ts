@@ -19,13 +19,13 @@ An application example is provided as a png file in the repo.
  * @return {Date[]} List with date objects for each day of the month
  */
 export function getDaysInMonth(month: number, year: number): Date[] {
-	console.log("Running 🔄");
-	//TODO write code here
-	console.log("Finished ✅");
-	return [];
+  console.log("Running 🔄");
+  //TODO write code here
+  console.log("Finished ✅");
+  return [];
 }
 
-console.log("Calendar: ", getDaysInMonth(0, 1969));
+console.log("🗓  : ", getDaysInMonth(0, 1969));
 // To test your function, run:
 // tsc index.ts
 // node index.js
